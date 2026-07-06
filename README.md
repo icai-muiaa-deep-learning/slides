@@ -8,9 +8,9 @@ In a world where we are using Markdown more and more, especially taking into acc
 
 ## How to execute
 
-The `mkslides` library allows two different execution modes, by folder and file. Here, the example that we have drafted is to always follow the execution by folder. Specifically, we have created the example to have a folder (in this case `src`) that contains all the files needed for the slides. 
+The `mkslides` library allows two different execution modes, by folder and file. Here, the example that we have drafted is to always follow the execution by folder. Specifically, we have created the example to have a folder (in this case `src`) that contains all the files needed for a set of slides. 
 
-We have decided in this template to put a folder for each template so they are more independent, and each set of slides is something that you can edit without having to worry about anything else.
+We have decided in this template to put a folder for each set of slides so they are more independent, and each set of slides is something that you can edit without having to worry about anything else.
 
 Now, to visualize the slides you just have to follow the following commands:
 
